@@ -1,0 +1,13 @@
+# Go Rest API Basic
+Personal intro project to Go
+
+## Getting started
+create .env file based on .env-sample. Need to set up Postgres and database.
+Once set up, run the project using
+```
+go run main.go
+```
+or (build)
+```
+go build main.go
+```
